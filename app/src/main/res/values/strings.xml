@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherPixApp</string>
+
+    <string-array name="city_array">
+        <item>Chennai</item>
+        <item>Mumbai</item>
+        <item>Bengaluru</item>
+        <item>Delhi</item>
+        <item>Kolkata</item>
+        <item>Kochi</item>
+        <item>Mysore</item>
+    </string-array>
+
+</resources>
